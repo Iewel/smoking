@@ -1,0 +1,7 @@
+train: C:\Users\21201\Desktop\smoking\datasets\train
+val: C:\Users\21201\Desktop\smoking\datasets\valid
+test: C:\Users\21201\Desktop\smoking\datasets\test\images
+
+nc: 2
+names: ['person', 'smoke']
+
